@@ -1,0 +1,13 @@
+#summary Brief outline of the PyHFT project.
+
+PyHFT: Python High Frequency Trading Tools
+
+= Objective =
+
+This project is about providing the computer savvy retail trader with powerful tools to develop and simulate trading strategies. Our primary focus is on US equities, but these tools can be just as easily applied to options, futures and beyond.
+
+Requirements to participate:
+
+(1) Deep interest in trading & finance, preferably with experience in statistical arbitrage.
+
+(2) Python proficiency, especially with regard to the Numpy/Scipy libraries. Knowledge of C & Fortran is a plus.
