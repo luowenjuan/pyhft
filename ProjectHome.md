@@ -1,0 +1,1 @@
+Signals analysis tools for the design and simulation of high frequency trading models.
